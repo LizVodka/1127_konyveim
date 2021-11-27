@@ -1,0 +1,117 @@
+{
+    "konyveim": [
+      {
+        "id": 1,
+        "cim": "Orosz hekkerek",
+        "szerzo": "Danyil Turovszkij",
+        "tipus": "regény",
+        "ar": 3990
+      },
+      {
+        "id": 2,
+        "cim": "A pestis",
+        "szerzo": "Albert Camus",
+        "tipus": "regény",
+        "ar": 1200
+      },
+      {
+        "id": 3,
+        "cim": "Hygge. A dán életérzés, amely boldoggá tesz",
+        "szerzo": "Meik Wiking",
+        "tipus": "életmód",
+        "ar": 4490
+      },
+      {
+        "id": 4,
+        "cim": "Ó, rinocérosz",
+        "szerzo": "Schein Gábor",
+        "tipus": "vers",
+        "ar": 3990
+      },
+      {
+        "id": 5,
+        "cim": "Örökölt sors",
+        "szerzo": "Orvos-Tóth Noémi",
+        "tipus": "pszichológia",
+        "ar": 2990
+      },
+      {
+        "id": 6,
+        "cim": "Rabok tovább",
+        "szerzo": "Kemény Zsófia",
+        "tipus": "életmód",
+        "ar": 3990
+      },
+      {
+        "id": 7,
+        "cim": "Lykke. A boldogság nyomában",
+        "szerzo": "Meik Wiking",
+        "tipus": "regény",
+        "ar": 3990
+      },
+      {
+        "id": 8,
+        "cim": "Persepolis",
+        "szerzo": "Marjane Satrapi",
+        "tipus": "képregény",
+        "ar": 4490
+      },
+      {
+        "id": 9,
+        "cim": "Idiótákkal körülvéve",
+        "szerzo": "Thomas Erikson",
+        "tipus": "pszichológia",
+        "ar": 2990
+      },
+      {
+        "id": "10",
+        "cim": "Az elveszett cirkáló",
+        "szerzo": "Rejtő Jenő",
+        "tipus": "regény",
+        "ar": "990"
+      }
+    ],
+    "szerzo": [
+      {
+        "id": 1,
+        "nev": "Danyil Turovszkij",
+        "nemzetiseg": "orosz"
+      },
+      {
+        "id": 2,
+        "nev": "Albert Camus",
+        "nemzetiseg": "francia"
+      },
+      {
+        "id": 3,
+        "nev": "Meik Wiking",
+        "nemzetiseg": "dán"
+      },
+      {
+        "id": 4,
+        "nev": "Schein Gábor",
+        "nemzetiseg": "magyar"
+      },
+      {
+        "id": 5,
+        "nev": "Orvos-Tóth Noémi",
+        "nemzetiseg": "magyar"
+      },
+      {
+        "id": 6,
+        "nev": "Kemény Zsófia",
+        "nemzetiseg": "magyar"
+      },
+      {
+        "id": 7,
+        "nev": "Marjane Satrapi",
+        "nemzetiseg": "perzsa"
+      },
+      {
+        "id": 8,
+        "nev": "Thomas Erikson",
+        "nemzetiseg": "svéd"
+      }
+    ]
+  }
+  

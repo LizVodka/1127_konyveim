@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script
+			  src="https://code.jquery.com/jquery-3.6.0.js"
+			  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+			  crossorigin="anonymous"></script>
+    <script src="ajax.js"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>MAA</title>
+</head>
+<body>
+    <input type="button" id="rendez" value="Rendezés ár szerint"><br>
+    
+    <form action="" method="post">
+        <input type="text" id="ujadatcim" placeholder="Cím">
+        <input type="text" id="ujadatszerzo" placeholder="Szerző">
+        <input type="text" id="ujadattipus" placeholder="Típus">
+        <input type="text" id="ujadatar" placeholder="Ár">
+        <input type="button" id="ujadat" value="Új adat felvitele">
+    </form>
+    <input type="number" name="torles" id="torlesid" placeholder="Törlendő rekord ID-ja">
+    <input type="button" id="torles" value="Adat törlése">
+    <form action="" method="post">
+        <input type="number" name="modosit" id="modositid" placeholder="ID">
+        <input type="text" id="modositcim" placeholder="Cím">
+        <input type="text" id="modositszerzo" placeholder="Szerző">
+        <input type="text" id="modosittipus" placeholder="Típus">
+        <input type="text" id="modositar" placeholder="Ár">
+        <input type="button" id="modosit" value="Módosítás">
+    </form>
+    <form action="">
+        <label for="tipus">Válassz műfajt!</label>
+        <select id="tipus">
+        </select>
+        <input type="button" value="Szűrés" id="szures">
+    </form>
+    
+    <div class="megjelenit"></div>
+</body>
+</html>
